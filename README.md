@@ -1,5 +1,7 @@
-# Studio-della-potenza-dei-tornado-in-base-alle-loro-caratteristiche
-The project considered consists in using R, to apply different descriptive and inferential statistics techniques to the historical data related to the tornado's phenomena.
+# Studio della potenza dei tornado in base alle loro caratteristiche
+English title: Study of the power of tornadoes based on their characteristics
+
+The project consists in using R, to apply different descriptive and inferential statistics techniques to the historical data related to the tornado's phenomena.
 
 Co-autors: Barjam Bardhi - Raffaele Moretti
 
